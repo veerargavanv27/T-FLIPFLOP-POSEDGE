@@ -70,4 +70,6 @@ endmodule
 ![Screenshot 2024-04-18 150849](https://github.com/PremkumarG3/T-FLIPFLOP-POSEDGE/assets/138955646/52a99f02-fdc7-4c2d-96de-98c32fc8630e)
 
 **RESULTS**
+
+
 T flipflop using verilog and validating their functionality using their functional tables completed
